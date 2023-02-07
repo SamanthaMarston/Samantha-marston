@@ -1,10 +1,10 @@
-cmpt220SamanthaMarston\
-    Module 02\
-        homework\
-            Problem1.java
+//cmpt220SamanthaMarston
+    //Module 02
+        //homework
+           // Problem1.java;
                 import java.util.Scanner;
                     {
-                    String name, Hometown;
+                    String Hometown,;
                     Scanner demo = new Scanner(System.in);
                     //Input
                     System.out.println("Enter your name: ");
@@ -18,34 +18,28 @@ cmpt220SamanthaMarston\
                     System.out.println("Your Hometown is:" +Hometown);
                     }
 
-            Problem2.java
+            //Problem2.java;
                 class Logical {
-                    public static void main(String[] args)
-                    {
+                    public static void main(String[] args){
                         // variables
-                        int a = 6, b = 5, c = 7, d = 9;
-                
-                        // Displaying a, b, c
-                        System.out.println("Var1 = " + a);
-                        System.out.println("Var2 = " + b);
-                        System.out.println("Var3 = " + c);
-                        System.out.println("Var4 = " + d);
+                        Scanner input = new Scanner(system.in)
+                        System.out.print(E: Enter Num A);
+                        System.out.print(E: Enter Num B);
+                        System.out.print(E: Enter Num C);
+                        System.out.print(E: Enter Num D);
+                        // Displaying a, b, c, and D
+                        
+                        double solution =(A*D-B*C)/(B*D);
+                        System.out.print( "The soluton is " + solutions)
+                        }
+                       
                 
                         // using logical AND to verify
                         // two constraints
-                        System.out.println("a + b = " + (a + b) );
-                        System.out.println("a - b = " + (a - b) );
-                        System.out.println("a * b = " + (a * b) );
-                        System.out.println("b / a = " + (b / a) );
-                        System.out.println("b % a = " + (b % a) );
-                        System.out.println("c % a = " + (c % a) );
-                        System.out.println("a++   = " +  (a++) );
-                        System.out.println("a-- = " + (a--) );
 
                         // Check the difference in d++ and ++d
-                        System.out.println("d++   = " +  (d++) );
-                        System.out.println("++d   = " +  (++d) )
-                                            }
+                        double solution =(A*D-B*C)/(B*D);
+
                                             
                                         
                                     }
